@@ -1,0 +1,6 @@
+@Mission10_LaTour_HostAddress = http://localhost:5156
+
+GET {{Mission10_LaTour_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
