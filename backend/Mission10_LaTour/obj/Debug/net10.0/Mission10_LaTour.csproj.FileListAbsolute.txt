@@ -146,3 +146,4 @@
 /Users/colelatour/RiderProjects/Mission10_LaTour/backend/Mission10_LaTour/obj/Debug/net10.0/Mission10_LaTour.pdb
 /Users/colelatour/RiderProjects/Mission10_LaTour/backend/Mission10_LaTour/obj/Debug/net10.0/Mission10_LaTour.genruntimeconfig.cache
 /Users/colelatour/RiderProjects/Mission10_LaTour/backend/Mission10_LaTour/obj/Debug/net10.0/ref/Mission10_LaTour.dll
+/Users/colelatour/RiderProjects/Mission10_LaTour/backend/Mission10_LaTour/obj/Debug/net10.0/Mission10_LaTour.sourcelink.json
